@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "addedItems:Adafruit MCP23017"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40,7 +40,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://learn.adafruit.com/adafruit-mcp23017-i2c-gpio-expander"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51,8 +51,8 @@
 		)
 		(symbol "Adafruit_MCP23017_0_1"
 			(rectangle
-				(start 15.24 -2.54)
-				(end 0 -35.56)
+				(start 0 -2.54)
+				(end 15.24 -35.56)
 				(stroke
 					(width 0)
 					(type default)
