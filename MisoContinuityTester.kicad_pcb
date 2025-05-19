@@ -9188,6 +9188,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "START"
+		(at 111.4 80.5 90)
+		(layer "F.SilkS")
+		(uuid "1ffd71eb-ebef-43e5-87d6-04f74d1458ed")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "B1"
 		(at 98.4 112.4 90)
 		(layer "F.SilkS")
@@ -10013,6 +10026,19 @@
 		(at 89.2 112.4 90)
 		(layer "F.SilkS")
 		(uuid "ec4c2f1c-2d68-4822-a97c-4c10952ef750")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 114 78.4 90)
+		(layer "F.SilkS")
+		(uuid "ed68571b-9a3f-4cb6-a2a9-38abfa85d8db")
 		(effects
 			(font
 				(size 1.5 1.5)
