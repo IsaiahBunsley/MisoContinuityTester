@@ -518,7 +518,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "../../../../../Control Box/TEST2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../../Control Box/MisoContinuityTester.stl",

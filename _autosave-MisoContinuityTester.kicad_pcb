@@ -116,7 +116,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../Control Box/TEST2/")
+			(outputdirectory "../../../../../Control Box/Continuity PCB/")
 		)
 	)
 	(net 0 "")
